@@ -2,8 +2,4 @@
 Repository will be linked to the versioning system of PlayCanvas
 
 ## Update
-With a public account it looks like as I would not have the ability to link my Github repos with my PlayCanvas projects.
-Somehow it makes sense to me, but I have to double-check that with an organization account.
-I could swear, that I saw the code dashboard again lately.
-Maybe one of my colleagues activated the legacy system for a project, where the dashboard was available.
-But hopefully it is back again, perhaps as an exclusive feature for private and organization accounts. 
+Linking repositories is only possible in PlayCanvas projects, which are using the legacy system. The recently introduced versioning system in PlayCanvas does not allow linking with external repositories (~january 2019). Neither with a personal account nor with a private or an organization account! For that reason I will put this repository on hold. 
